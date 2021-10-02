@@ -6,3 +6,10 @@ A Generic one page Dashboard using a splicer to view a spesific year. Data is or
 
 Tooltips used that allow for differnt looks at a particular catagory
 
+![Screenshot#2](https://user-images.githubusercontent.com/10605443/135729202-10c42ab2-528f-4280-9e5a-1ac271ee6d42.PNG)
+
+
+Filtered to show 2019 data while also showing a different Tooltip view.
+
+![Screenshot#3](https://user-images.githubusercontent.com/10605443/135729206-6a01a645-502c-49ba-a760-49e37fc5e1d1.PNG)
+
