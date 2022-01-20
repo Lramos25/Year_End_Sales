@@ -1,6 +1,6 @@
 # Year_End_Sales
 
-A Generic one page Dashboard using a splicer to view a spesific year. The idea behind this was to maintain famiurality with basic chart types, BI slicers, and tooltips. 
+A Generic one page Dashboard using a splicer to view a spesific year. The idea behind this was to maintain familiarity with basic chart types, BI slicers, and tooltips. 
 
 Just a basic project to work with data. 
 
